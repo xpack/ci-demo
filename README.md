@@ -9,3 +9,6 @@ All these tools are defined with specific versions as `xpack/devDependencies`,
 installed in the project via `xpm install`.
 
 The test is performed via `xpm run test`.
+
+For details please see the `.github/workflows/ci.yml` and `package.json`
+files.
