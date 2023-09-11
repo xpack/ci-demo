@@ -12,6 +12,12 @@ name: CI on Push
 
 on:
   push:
+    paths-ignore:
+      - '.vscode/**'
+      - 'LICENSE'
+      - '**.md'
+      - '.gitignore'
+      - '.github/workflows/manual.yml'
 
 jobs:
   ci-test:
