@@ -1,5 +1,5 @@
 {
-  "name": "xpack/ci-demo",
+  "name": "@xpack/ci-demo",
   "version": "0.1.0",
   "description": "A CI test using xpm",
   "main": "",
